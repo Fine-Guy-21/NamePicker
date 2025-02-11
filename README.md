@@ -2,6 +2,9 @@
 
 A simple web application that allows users to enter names, track their occurrences, and randomly select a winner based on the names and their weights. The application features options to edit and remove names easily.
 
+![Alt text](pic.jpg)
+
+
 ## Description
 
 If parents are struggling to choose a name for their child, there's no need to worry! Name Selector will help you make the decision—just enter the names and let the magic happen!
