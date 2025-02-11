@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F2E8CF;
+    color: #000;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    color: #386641;
+}
+input {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #6A994E;
+    border-radius: 5px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #A7C957;
+    border: none;
+    color: #FFF;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #6A994E;
+}
+.name-list {
+    margin-top: 20px;
+    font-weight: bold;
+    border: 2px solid #6A994E;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #F9F9F9;
+    max-width: 300px;            
+    margin: 20px auto;
+    display: none;
+}
+.name-item {
+    padding: 5px;
+    border-bottom: 1px solid #6A994E;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.name-item:last-child {
+    border-bottom: none;
+}
+.weight {
+    font-weight: normal;
+    display: inline-block;
+    margin-left: 10px;
+}
+.low-weight {
+    color: #BC4749;
+}
+.medium-weight {
+    color: #6A994E;
+}
+.high-weight {
+    color: #386641;
+}
+.edit-button {
+    margin-left: 5px;
+    background-color: #ee6b00af;
+    color: #000;
+}
+.remove-button {
+    margin-left: 5px;
+    background-color: #f11607af;
+    color: #000;
+}
