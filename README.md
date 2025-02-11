@@ -2,7 +2,7 @@
 
 A simple web application that allows users to enter names, track their occurrences, and randomly select a winner based on the names and their weights. The application features options to edit and remove names easily.
 
-![Alt text](pic.jpg){width="300" height="200"} 
+![Alt text](pic.jpg)
 
 
 ## Description
