@@ -26,4 +26,4 @@ To run the application locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/name-selector.git
+   git clone https://github.com/Fine-Guy-21/NamePicker.git
